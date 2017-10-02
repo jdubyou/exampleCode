@@ -16,7 +16,7 @@ function isVowel(ch) {
 function pigLatin(word) {
     var latin = "";
     if (word == undefined) {
-        return "You word is undefined stupid";
+        return "You word is undefined Idiot";
     }
     var first = word[0],
         second = word[1];
